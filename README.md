@@ -1,1 +1,2 @@
-# A18-Econometria-Avancada
+# 18_Modelos_VAR
+Inicio aos modelos VAR
